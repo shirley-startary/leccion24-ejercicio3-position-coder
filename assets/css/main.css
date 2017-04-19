@@ -1,0 +1,14 @@
+h1{
+  font-family: "calibri";
+  font-weight: bold;
+}
+img{
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  margin: 10px;
+}
+
+div{
+  position: relative;
+}
